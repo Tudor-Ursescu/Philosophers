@@ -7,7 +7,7 @@
 
 3.[Project Structure](#-project-structure)
 
-4.[Installation](#installation)
+4.[Instalation](#-installation)
 
 5.[Usage](#-usage)
 
@@ -46,7 +46,7 @@ Philosophers/
 │── Makefile              # Compilation rules
 ```
 
-## ⚙️ Installation
+## Installation
 To install and compile philosophers, follow these steps:
 ```sh
 #Clone the repository
