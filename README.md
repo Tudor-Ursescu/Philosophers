@@ -1,5 +1,22 @@
 # 🧠 Philosophers
 
+## ↕️Table of Contents
+1.[Introduction](#-introduction)
+
+2.[Features](#-features)
+
+3.[Project Structure](#-project-structure)
+
+4.[Instalation](#-instalation)
+
+5.[Usage](#-usage)
+
+6.[Built-in Mechanisms](#-built-in-mechanisms)
+
+7.[Contributors](#-contributors)
+
+8.[License](#-license)
+
 ## 📖 Introduction
 The Philosophers project is an implementation of the classic Dining Philosophers Problem, a synchronization challenge in concurrent programming. This project is designed to help understand threads, mutexes, and concurrency management in C using pthread.
 
