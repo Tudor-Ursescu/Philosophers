@@ -6,11 +6,11 @@
 /*   By: tursescu <tursescu@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/11/09 12:41:36 by tursescu          #+#    #+#             */
-/*   Updated: 2024/11/11 10:53:03 by tursescu         ###   ########.fr       */
+/*   Updated: 2025/03/21 11:48:16 by tursescu         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "philo.h"
+#include "../includes/philo.h"
 
 void	set_bool(t_mtx *mutex, bool *dest, bool value)
 {

@@ -6,11 +6,11 @@
 /*   By: tursescu <tursescu@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/11/11 09:03:22 by tursescu          #+#    #+#             */
-/*   Updated: 2024/11/13 10:09:16 by tursescu         ###   ########.fr       */
+/*   Updated: 2025/03/21 11:48:51 by tursescu         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "philo.h"
+#include "../includes/philo.h"
 
 static bool	philo_died(t_philo *philo)
 {

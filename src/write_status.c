@@ -6,11 +6,11 @@
 /*   By: tursescu <tursescu@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/11/09 13:25:35 by tursescu          #+#    #+#             */
-/*   Updated: 2024/11/11 15:44:55 by tursescu         ###   ########.fr       */
+/*   Updated: 2025/03/21 11:48:58 by tursescu         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "philo.h"
+#include "../includes/philo.h"
 
 void	write_status(t_philo_status status, t_philo *philo)
 {

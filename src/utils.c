@@ -6,11 +6,11 @@
 /*   By: tursescu <tursescu@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/11/09 11:47:17 by tursescu          #+#    #+#             */
-/*   Updated: 2024/11/11 15:52:30 by tursescu         ###   ########.fr       */
+/*   Updated: 2025/03/21 11:48:56 by tursescu         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "philo.h"
+#include "../includes/philo.h"
 
 static int	is_space(char c)
 {

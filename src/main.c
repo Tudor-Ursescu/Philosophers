@@ -6,11 +6,11 @@
 /*   By: tursescu <tursescu@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/11/09 11:29:27 by tursescu          #+#    #+#             */
-/*   Updated: 2024/11/11 12:57:07 by tursescu         ###   ########.fr       */
+/*   Updated: 2025/03/21 11:48:21 by tursescu         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "philo.h"
+#include "../includes/philo.h"
 
 int	main(int ac, char **av)
 {
